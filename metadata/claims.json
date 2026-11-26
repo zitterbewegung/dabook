@@ -1,0 +1,330 @@
+[
+  {
+    "id": "PS-001",
+    "family": "F001",
+    "status": "PROVED",
+    "title": "Unordered-fiber injectivity",
+    "file": "families/F001-projected-segre/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable.",
+    "proof": "preprints/F001-Projected-Segre-Shifted-Hyperbola/article.md"
+  },
+  {
+    "id": "PS-002",
+    "family": "F001",
+    "status": "PROVED",
+    "title": "Exact line fibers with diagonals and verticals",
+    "file": "families/F001-projected-segre/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable.",
+    "proof": "preprints/F001-Projected-Segre-Shifted-Hyperbola/article.md"
+  },
+  {
+    "id": "PS-003",
+    "family": "F001",
+    "status": "PROVED",
+    "title": "Shifted-hyperbola exact second moment",
+    "file": "families/F001-projected-segre/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable.",
+    "proof": "preprints/F001-Projected-Segre-Shifted-Hyperbola/article.md"
+  },
+  {
+    "id": "PS-004",
+    "family": "F001",
+    "status": "PROVED",
+    "title": "Corrected collinear-triple sum",
+    "file": "families/F001-projected-segre/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable.",
+    "proof": "preprints/F001-Projected-Segre-Shifted-Hyperbola/article.md"
+  },
+  {
+    "id": "PS-005",
+    "family": "F001",
+    "status": "FAILED_DISPROVED",
+    "title": "Unqualified third-moment conjecture fails",
+    "file": "families/F001-projected-segre/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "PS-006",
+    "family": "F001",
+    "status": "OPEN_GAP",
+    "title": "Sharp corrected third moment",
+    "file": "families/F001-projected-segre/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "PS-007",
+    "family": "F001",
+    "status": "REPORTED_UNVERIFIED",
+    "title": "Structured Mobius conjugation",
+    "file": "families/F001-projected-segre/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "PS-008",
+    "family": "F001",
+    "status": "OPEN_GAP",
+    "title": "Uniform PGL2 slice summation",
+    "file": "families/F001-projected-segre/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "PS-009",
+    "family": "F001",
+    "status": "OPEN_GAP",
+    "title": "Explicit power-saving three-point line estimate",
+    "file": "families/F001-projected-segre/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "PS-010",
+    "family": "F001",
+    "status": "PROVED",
+    "title": "Plane-section factorization",
+    "file": "families/F001-projected-segre/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable.",
+    "proof": "preprints/F001-Projected-Segre-Shifted-Hyperbola/article.md"
+  },
+  {
+    "id": "CV-001",
+    "family": "F002",
+    "status": "PROVED",
+    "title": "Bisector crosses both boundary arcs",
+    "file": "families/F002-convex-bisectors/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable.",
+    "proof": "preprints/F002-Convex-Bisector-Counting/article.md"
+  },
+  {
+    "id": "CV-002",
+    "family": "F002",
+    "status": "PROVED",
+    "title": "Gap-target injection and kA ≤ B",
+    "file": "families/F002-convex-bisectors/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable.",
+    "proof": "preprints/F002-Convex-Bisector-Counting/article.md"
+  },
+  {
+    "id": "CV-003",
+    "family": "F002",
+    "status": "PROVED",
+    "title": "Cycle product obstruction",
+    "file": "families/F002-convex-bisectors/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable.",
+    "proof": "preprints/F002-Convex-Bisector-Counting/article.md"
+  },
+  {
+    "id": "CV-004",
+    "family": "F002",
+    "status": "REPORTED_UNVERIFIED",
+    "title": "Closed marked correspondence",
+    "file": "families/F002-convex-bisectors/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "CV-005",
+    "family": "F002",
+    "status": "REPORTED_UNVERIFIED",
+    "title": "Four-curvature separator",
+    "file": "families/F002-convex-bisectors/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "CV-006",
+    "family": "F002",
+    "status": "REPORTED_UNVERIFIED",
+    "title": "Unbounded local two-circle construction",
+    "file": "families/F002-convex-bisectors/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "CV-007",
+    "family": "F002",
+    "status": "EXTERNAL_RESULT",
+    "title": "Kruer-Kohlmeyer-Price 2026 reported disproof",
+    "file": "families/F002-convex-bisectors/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "DV-001",
+    "family": "F003",
+    "status": "REPORTED_UNVERIFIED",
+    "title": "Log moment S_k(H) bound",
+    "file": "families/F003-erdos-1061-divisor/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "DV-002",
+    "family": "F003",
+    "status": "REPORTED_UNVERIFIED",
+    "title": "Fermat-prime ratio classification",
+    "file": "families/F003-erdos-1061-divisor/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "DV-003",
+    "family": "F003",
+    "status": "REPORTED_UNVERIFIED",
+    "title": "Mersenne-prime ratio classification",
+    "file": "families/F003-erdos-1061-divisor/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "DV-004",
+    "family": "F003",
+    "status": "REPORTED_UNVERIFIED",
+    "title": "Ratio 1:8 classification",
+    "file": "families/F003-erdos-1061-divisor/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "DV-005",
+    "family": "F003",
+    "status": "COMPUTATIONAL_EVIDENCE",
+    "title": "Reported local-core seeds",
+    "file": "families/F003-erdos-1061-divisor/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "DV-006",
+    "family": "F003",
+    "status": "OPEN_GAP",
+    "title": "Opposite-sign coefficient energy",
+    "file": "families/F003-erdos-1061-divisor/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "DV-007",
+    "family": "F003",
+    "status": "OPEN_GAP",
+    "title": "Erdos 1061 asymptotic",
+    "file": "families/F003-erdos-1061-divisor/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "WM-001",
+    "family": "F004",
+    "status": "OPEN_GAP",
+    "title": "Erdos 886 open exponent range",
+    "file": "families/F004-erdos-886-divisor-window/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "WM-002",
+    "family": "F004",
+    "status": "EXTERNAL_RESULT",
+    "title": "Erdos-Rosenfeld quarter-power bound",
+    "file": "families/F004-erdos-886-divisor-window/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "WM-003",
+    "family": "F004",
+    "status": "OPEN_GAP",
+    "title": "Sieve-lcm antichain",
+    "file": "families/F004-erdos-886-divisor-window/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "ED1-001",
+    "family": "F005",
+    "status": "OPEN_GAP",
+    "title": "Erdos problem 1 target",
+    "file": "families/F005-erdos-1/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "ED1-002",
+    "family": "F005",
+    "status": "REPORTED_UNVERIFIED",
+    "title": "Negative result or standalone lemmas",
+    "file": "families/F005-erdos-1/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "EC-001",
+    "family": "F006",
+    "status": "OPEN_GAP",
+    "title": "Ordinary box Coppersmith",
+    "file": "families/F006-elliptic-ecdlp/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "EC-002",
+    "family": "F006",
+    "status": "OPEN_GAP",
+    "title": "Finite-cover Coppersmith",
+    "file": "families/F006-elliptic-ecdlp/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "EC-003",
+    "family": "F006",
+    "status": "OPEN_GAP",
+    "title": "FP-TC6 FP-TRI 1J-DEAMP",
+    "file": "families/F006-elliptic-ecdlp/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "EC-004",
+    "family": "F006",
+    "status": "REPORTED_UNVERIFIED",
+    "title": "Elliptic-energy identities and decomposition oracle",
+    "file": "families/F006-elliptic-ecdlp/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "FF-001",
+    "family": "F007",
+    "status": "REPORTED_UNVERIFIED",
+    "title": "General split-quadric reduction",
+    "file": "families/F007-finite-field-phases/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "FF-002",
+    "family": "F007",
+    "status": "CONJECTURE",
+    "title": "Branch-contact classification",
+    "file": "families/F007-finite-field-phases/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "FF-003",
+    "family": "F007",
+    "status": "CONJECTURE",
+    "title": "Mixed-Tate stratification",
+    "file": "families/F007-finite-field-phases/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "FF-004",
+    "family": "F007",
+    "status": "OPEN_GAP",
+    "title": "Fixed-K R2 energy formulas",
+    "file": "families/F007-finite-field-phases/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "FF-005",
+    "family": "F007",
+    "status": "OPEN_GAP",
+    "title": "U-Fourier reciprocal interval spectrum",
+    "file": "families/F007-finite-field-phases/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "FF-006",
+    "family": "F007",
+    "status": "REPORTED_UNVERIFIED",
+    "title": "Mobius energy equivalence",
+    "file": "families/F007-finite-field-phases/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  },
+  {
+    "id": "UL-001",
+    "family": "F008",
+    "status": "OPEN_GAP",
+    "title": "Infinite Ulam prime sequence",
+    "file": "families/F008-ulam-primes/README.md",
+    "source": "See sources/SOURCE_MAP.md and family ledger; direct proof where applicable."
+  }
+]
